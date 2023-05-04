@@ -30,6 +30,9 @@ To get started with this project, simply clone or download the repository and op
 4. When the quiz is over, enter your initials and click "Save Score" to save your score to the high scores list.
 5. View the high scores list by navigating to the `high_scores.html` page.
 
+##License
+This project is open source and available under the MIT License.
+
 ## Customization
 
 To add your own questions and answers, edit the `questions` array in the `script.js` file. Each object in the array should have a `question` property (the question text) and an `answers` property (an array of answer objects). Each answer object should have a `text` property (the answer text) and a `correct` property (a boolean indicating whether the answer is correct).
@@ -46,6 +49,3 @@ Example question object:
         { text: '<script link="script.js">', correct: false }
     ]
 }
-
-##License
-This project is open source and available under the MIT License.
