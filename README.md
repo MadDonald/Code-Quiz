@@ -30,7 +30,7 @@ To get started with this project, simply clone or download the repository and op
 4. When the quiz is over, enter your initials and click "Save Score" to save your score to the high scores list.
 5. View the high scores list by navigating to the `high_scores.html` page.
 
-##License
+## License
 This project is open source and available under the MIT License.
 
 ## Customization
